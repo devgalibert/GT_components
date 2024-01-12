@@ -1,5 +1,8 @@
 {
-  "name": "gt_components",
+  "name": "@devgalibert/gt_components",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/devgalibert"
+  },
   "version": "1.0.0",
   "description": "UI Components & tools for react",
   "main": "dist/cjs/index.js",
